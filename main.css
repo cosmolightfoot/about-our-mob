@@ -1,0 +1,19 @@
+header{
+    background: black;
+    color: white;
+}
+
+main {
+    background: green;
+    color: red;
+}
+
+footer {
+    background: red;
+    color: black;
+}
+
+body {
+    background: lavenderblush;
+}
+
